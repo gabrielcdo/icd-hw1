@@ -68,12 +68,11 @@ pip install -r requiriments.txt
 
 ## Usage
 
-Explain how to use or run the project. Provide instructions and examples if necessary.
+
 
 ## Contributing
 
-Explain how others can contribute to your project if you are open to contributions. Include guidelines for pull requests and other relevant information.
+
 
 ## License
 
-Specify the license under which your project is distributed.
