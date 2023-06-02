@@ -3,4 +3,5 @@ jupyter_black
 requests
 scikit-learn
 xgboost
-catboost
+tqdm
+plotly

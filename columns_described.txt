@@ -1,0 +1,101 @@
+'link.data.state': o estado associado ao link.
+'link.data.city': a cidade associada ao link.
+'link.data.zone': a zona associada ao link.
+'link.data.neighborhood': o bairro associado ao link.
+'link.data.street': a rua associada ao link.
+'link.data.streetNumber': o número da rua associado ao link.
+'link.name': o nome do link.
+'link.href': o link para acesso.
+'link.rel': o relacionamento do link.
+'account.id': o ID da conta.
+'account.name': o nome da conta.
+'account.licenseNumber': o número de licença da conta.
+'account.showAddress': indica se o endereço da conta deve ser exibido.
+'account.legacyVivarealId': o ID legado da conta no Vivareal.
+'account.legacyZapId': o ID legado da conta no Zap.
+'account.createdDate': a data de criação da conta.
+'account.tier': o nível da conta.
+'listing.sourceId': o ID da fonte do anúncio.
+'listing.displayAddressType': o tipo de endereço exibido.
+'listing.amenities': as comodidades do imóvel. 
+'listing.usableAreas': as áreas utilizáveis do imóvel.
+'listing.constructionStatus': o status de construção do imóvel.
+'listing.listingType': o tipo de anúncio.
+'listing.description': a descrição do imóvel.
+'listing.title': o título do anúncio.
+'listing.stamps': os selos do imóvel.
+'listing.createdAt': a data de criação do anúncio.
+'listing.floors': o número de pisos do imóvel.
+'listing.unitTypes': os tipos de unidade do imóvel.
+'listing.nonActivationReason': o motivo de não ativação do anúncio.
+'listing.providerId': o ID do provedor do anúncio.
+'listing.propertyType': o tipo de propriedade.
+'listing.unitSubTypes': os subtipos de unidade do imóvel.
+'listing.unitsOnTheFloor': o número de unidades por andar do imóvel.
+'listing.legacyId': o ID legado do anúncio.
+'listing.id': o ID do anúncio.
+'listing.portal': o portal do anúncio.
+'listing.unitFloor': o andar da unidade do imóvel.
+'listing.parkingSpaces': o número de vagas de estacionamento do imóvel.
+'listing.updatedAt': a data de atualização do anúncio.
+'listing.address.country': o país do endereço do imóvel.
+'listing.address.zipCode': o CEP do endereço do imóvel.
+'listing.address.city': a cidade do endereço do imóvel.
+'listing.address.streetNumber': o número da rua do endereço do imóvel.
+'listing.address.level': o nível do endereço do imóvel.
+'listing.address.precision': a precisão do endereço do imóvel.
+'listing.address.confidence': a confiança do endereço do imóvel.
+'listing.address.stateAcronym': a sigla do estado.
+'listing.address.source': a fonte do endereço do imóvel.
+'listing.address.point.lon': a longitude do ponto de localização do endereço.
+'listing.address.point.source': a fonte do ponto de localização do endereço.
+'listing.address.point.lat': a latitude do ponto de localização do endereço.
+'listing.address.ibgeCityId': o ID do município no IBGE.
+'listing.address.zone': a zona do endereço do imóvel.
+'listing.address.street': a rua do endereço do imóvel.
+'listing.address.locationId': o ID da localização do endereço.
+'listing.address.district': o distrito do endereço do imóvel.
+'listing.address.name': o nome do endereço do imóvel.
+'listing.address.state': o estado do endereço do imóvel.
+'listing.address.neighborhood': o bairro do endereço do imóvel.
+'listing.address.poisList': uma lista de pontos de interesse próximos ao imóvel.
+'listing.address.pois': os pontos de interesse do imóvel.
+'listing.address.valuableZones': as zonas valiosas do imóvel.
+'listing.suites': o número de suítes do imóvel.
+'listing.publicationType': o tipo de publicação.
+'listing.externalId': o ID externo do imóvel.
+'listing.bathrooms': o número de banheiros do imóvel.
+'listing.usageTypes': os tipos de uso do imóvel.
+'listing.totalAreas': a área total do imóvel.
+'listing.advertiserId': o ID do anunciante.
+'listing.advertiserContact.chat': o chat de contato com o anunciante.
+'listing.advertiserContact.phones': os telefones de contato do anunciante.
+'listing.whatsappNumber': o número de WhatsApp do anunciante.
+'listing.bedrooms': o número de quartos do imóvel.
+'listing.acceptExchange': indica se o imóvel aceita permuta.
+'listing.pricingInfos': informações sobre preços do imóvel.
+'listing.showPrice': indica se o preço deve ser exibido.
+'listing.resale': indica se o imóvel é de revenda.
+'listing.buildings': os prédios do imóvel.
+'listing.capacityLimit': o limite de capacidade do imóvel.
+'listing.status': o status do imóvel.
+'listing.contractType': o tipo de contrato.
+'listing.images': as imagens do imóvel.
+'listing.videos': os vídeos do imóvel.
+'listing.videoTour': o tour em vídeo do imóvel.
+'listing.hasAddress': indica se o imóvel possui endereço.
+'listing.isAllowedConcierge': indica se o uso do concierge é permitido.
+'listing.isDevelopment': indica se o imóvel é um empreendimento.
+'listing.isInactive': indica se o imóvel está inativo.
+'listing.isDefaulterInactive': indica se o imóvel inativo é por inadimplência.
+'listing.pricingInfo.isSale': indica se o preço é para venda.
+'listing.pricingInfo.price': o preço do imóvel.
+'listing.pricingInfo.rawPrice': o preço bruto do imóvel.
+'listing.pricingInfo.priceMap.RENTAL.period': o período de aluguel para o imóvel.
+'listing.pricingInfo.priceMap.RENTAL.rawPeriod': o período de aluguel bruto para o imóvel.
+'listing.pricingInfo.priceMap.RENTAL.warranties': as garantias do aluguel do imóvel.
+'listing.pricingInfo.priceMap.RENTAL.rentalPrice': o preço do aluguel do imóvel.
+'listing.pricingInfo.priceMap.RENTAL.businessType': o tipo de negócio do aluguel do imóvel.
+'listing.pricingInfo.priceMap.RENTAL.rentalTotalPrice': o preço total do aluguel do imóvel.
+'listing.pricingInfo.priceMap.RENTAL.yearlyIptu': o IPTU anual do imóvel para aluguel.
+'listing.pricingInfo.priceMap.RENTAL.monthlyCondoFee': a taxa mensal do condomínio do imóvel para aluguel.
