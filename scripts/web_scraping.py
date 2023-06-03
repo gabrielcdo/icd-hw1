@@ -13,7 +13,7 @@ HEADERS = {"User-Agent": USER_AGENT}
 
 # %%
 URL = "https://www.zapimoveis.com.br/venda/casas/?pagina="
-number_of_pages = 1001
+number_of_pages = 101
 pages = [str(i) for i in range(1, number_of_pages)]
 
 
