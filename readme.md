@@ -65,14 +65,3 @@ The project has dependencies listed in the `requiriments.txt` file. Make sure to
 ```shell
 pip install -r requiriments.txt
 ```
-
-## Usage
-
-
-
-## Contributing
-
-
-
-## License
-
